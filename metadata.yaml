@@ -1,0 +1,34 @@
+_repo: Tales-from-Shakespeare_1286
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Lamb, Mary
+    alias: Lamb, Mary Ann
+    birthdate: 1764
+    deathdate: 1847
+    gutenberg_agent_id: '294'
+    url: http://www.gutenberg.org/2009/agents/294
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Lamb
+  - agent_name: Lamb, Charles
+    birthdate: 1775
+    deathdate: 1834
+    gutenberg_agent_id: '293'
+    url: http://www.gutenberg.org/2009/agents/293
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
+description: ''
+gutenberg_issued: '1998-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Adaptations'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Stories, plots, etc. -- Juvenile literature'
+- !lcc 'PZ'
+- GITenberg
+title: Tales from Shakespeare
+url: http://www.gutenberg.org/ebooks/1286
